@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "variants": [
+        {
+            "key": "sword_socket/toolbooster",
+            "category": "misc",
+            "tools": {
+                "cut": [1, 0]
+            }
+        },
+        {
+            "key": "sword_socket/legend_toolbooster",
+            "category": "misc",
+            "tools": {
+                "cut": [2, 0]
+            }
+        },
+        {
+            "key": "sword_socket/creative_toolbooster",
+            "category": "misc",
+            "tools": {
+                "cut": [10, 0]
+            }
+        }
+    ]
+}

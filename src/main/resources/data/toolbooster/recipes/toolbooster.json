@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#A#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "A": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "toolbooster:toolbooster",
+    "count": 1
+  }
+}

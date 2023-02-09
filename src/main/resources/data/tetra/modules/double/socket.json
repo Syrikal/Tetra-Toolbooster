@@ -1,0 +1,32 @@
+{
+    "replace": false,
+    "variants": [
+        {
+            "key": "double_socket/toolbooster",
+            "category": "misc",
+            "tools": {
+                "axe": [1, 0],
+                "pickaxe": [1, 0],
+                "hoe": [1, 0]
+            }
+        },
+        {
+            "key": "double_socket/legend_toolbooster",
+            "category": "misc",
+            "tools": {
+                "axe": [2, 0],
+                "pickaxe": [2, 0],
+                "hoe": [2, 0]
+            }
+        },
+        {
+            "key": "double_socket/creative_toolbooster",
+            "category": "misc",
+            "tools": {
+                "axe": [10, 0],
+                "pickaxe": [10, 0],
+                "hoe": [10, 0]
+            }
+        }
+    ]
+}

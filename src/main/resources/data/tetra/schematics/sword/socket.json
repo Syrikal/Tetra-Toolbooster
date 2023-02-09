@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "outcomes": [
+        {
+            "material": {
+                "item": "toolbooster:toolbooster"
+            },
+            "experienceCost": 10,
+            "moduleKey": "sword/socket",
+            "moduleVariant": "sword_socket/toolbooster"
+        },
+        {
+            "material": {
+                "item": "toolbooster:legend_toolbooster"
+            },
+            "experienceCost": 30,
+            "moduleKey": "sword/socket",
+            "moduleVariant": "sword_socket/legend_toolbooster"
+        },
+        {
+            "material": {
+                "item": "toolbooster:creative_toolbooster"
+            },
+            "moduleKey": "sword/socket",
+            "moduleVariant": "sword_socket/creative_toolbooster"
+        }
+    ]
+}

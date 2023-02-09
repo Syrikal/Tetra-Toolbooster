@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "outcomes": [
+        {
+            "material": {
+                "item": "toolbooster:toolbooster"
+            },
+            "experienceCost": 10,
+            "moduleKey": "double/socket",
+            "moduleVariant": "double_socket/toolbooster"
+        },
+        {
+            "material": {
+                "item": "toolbooster:legend_toolbooster"
+            },
+            "experienceCost": 30,
+            "moduleKey": "double/socket",
+            "moduleVariant": "double_socket/legend_toolbooster"
+        },
+        {
+            "material": {
+                "item": "toolbooster:creative_toolbooster"
+            },
+            "moduleKey": "double/socket",
+            "moduleVariant": "double_socket/creative_toolbooster"
+        }
+    ]
+}

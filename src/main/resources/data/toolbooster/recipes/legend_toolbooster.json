@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "nED",
+    "HNH",
+    "DEn"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:netherite_block"
+    },
+    "E": {
+      "item": "minecraft:end_crystal"
+    },
+    "D": {
+      "item": "minecraft:dragon_breath"
+    },
+    "H": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "toolbooster:legend_toolbooster",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "variants": [
+        {
+            "key": "single_socket/toolbooster",
+            "category": "misc",
+            "tools": {
+                "shovel": [1, 0],
+                "cut": [1, 0]
+            }
+        },
+        {
+            "key": "single_socket/legend_toolbooster",
+            "category": "misc",
+            "tools": {
+                "shovel": [2, 0],
+                "cut": [2, 0]
+            }
+        },
+        {
+            "key": "single_socket/creative_toolbooster",
+            "category": "misc",
+            "tools": {
+                "shovel": [10, 0],
+                "cut": [10, 0]
+            }
+        }
+    ]
+}

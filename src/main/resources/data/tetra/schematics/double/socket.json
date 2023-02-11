@@ -19,6 +19,14 @@
         },
         {
             "material": {
+                "item": "toolbooster:hammer_toolbooster"
+            },
+            "experienceCost": 30,
+            "moduleKey": "double/socket",
+            "moduleVariant": "double_socket/hammer_toolbooster"
+        },
+        {
+            "material": {
                 "item": "toolbooster:creative_toolbooster"
             },
             "moduleKey": "double/socket",

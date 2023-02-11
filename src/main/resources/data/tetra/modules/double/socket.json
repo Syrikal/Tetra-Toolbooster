@@ -5,27 +5,35 @@
             "key": "double_socket/toolbooster",
             "category": "misc",
             "tools": {
-                "axe": [1, 0],
-                "pickaxe": [1, 0],
-                "hoe": [1, 0]
+                "axe": 1,
+                "pickaxe": 1,
+                "hoe": 1
             }
         },
         {
             "key": "double_socket/legend_toolbooster",
             "category": "misc",
             "tools": {
-                "axe": [2, 0],
-                "pickaxe": [2, 0],
-                "hoe": [2, 0]
+                "axe": 2,
+                "pickaxe": 2,
+                "hoe": 2
             }
         },
         {
             "key": "double_socket/creative_toolbooster",
             "category": "misc",
             "tools": {
-                "axe": [10, 0],
-                "pickaxe": [10, 0],
-                "hoe": [10, 0]
+                "axe": 10,
+                "pickaxe": 10,
+                "hoe": 10,
+                "hammer": 10
+            }
+        },
+        {
+            "key": "double_socket/hammer_toolbooster",
+            "category": "misc",
+            "tools": {
+                "hammer": 3
             }
         }
     ]

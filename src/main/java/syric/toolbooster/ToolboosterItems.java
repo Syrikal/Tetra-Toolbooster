@@ -20,6 +20,8 @@ public class ToolboosterItems {
             () -> new Item(new Item.Properties().tab(TetraItemGroup.instance).rarity(Rarity.UNCOMMON)));
     public static final RegistryObject<Item> LEGEND_TOOLBOOSTER = ITEMS.register("legend_toolbooster",
             () -> new Item(new Item.Properties().tab(TetraItemGroup.instance).rarity(Rarity.RARE)));
+    public static final RegistryObject<Item> HAMMER_TOOLBOOSTER = ITEMS.register("hammer_toolbooster",
+            () -> new Item(new Item.Properties().tab(TetraItemGroup.instance).rarity(Rarity.RARE)));
     public static final RegistryObject<Item> CREATIVE_TOOLBOOSTER = ITEMS.register("creative_toolbooster",
             () -> new Item(new Item.Properties().tab(TetraItemGroup.instance).rarity(Rarity.EPIC)));
 

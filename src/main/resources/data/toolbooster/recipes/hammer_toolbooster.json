@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "nEn",
+    "ONO",
+    "nEn"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:netherite_block"
+    },
+    "E": {
+      "item": "minecraft:end_crystal"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "toolbooster:hammer_toolbooster",
+    "count": 1
+  }
+}

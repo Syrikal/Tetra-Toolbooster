@@ -6,7 +6,7 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-import se.mickelus.tetra.TetraItemGroup;
+import se.mickelus.tetra.items.TetraItemGroup;
 
 public class ToolboosterItems {
     // create DeferredRegister object

@@ -1,12 +1,12 @@
 package syric.toolbooster;
 
-import net.minecraft.item.Item;
-import net.minecraft.item.Rarity;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.Rarity;
 import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
-import se.mickelus.tetra.items.TetraItemGroup;
+import net.minecraftforge.registries.RegistryObject;
+import se.mickelus.tetra.TetraItemGroup;
 
 public class ToolboosterItems {
     // create DeferredRegister object

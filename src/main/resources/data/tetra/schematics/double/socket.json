@@ -3,7 +3,7 @@
     "outcomes": [
         {
             "material": {
-                "item": "toolbooster:toolbooster"
+                "items": ["toolbooster:toolbooster"]
             },
             "experienceCost": 10,
             "moduleKey": "double/socket",
@@ -11,7 +11,7 @@
         },
         {
             "material": {
-                "item": "toolbooster:legend_toolbooster"
+                "items": ["toolbooster:legend_toolbooster"]
             },
             "experienceCost": 30,
             "moduleKey": "double/socket",
@@ -19,7 +19,7 @@
         },
         {
             "material": {
-                "item": "toolbooster:hammer_toolbooster"
+                "items": ["toolbooster:hammer_toolbooster"]
             },
             "experienceCost": 30,
             "moduleKey": "double/socket",
@@ -27,7 +27,7 @@
         },
         {
             "material": {
-                "item": "toolbooster:creative_toolbooster"
+                "items": ["toolbooster:creative_toolbooster"]
             },
             "moduleKey": "double/socket",
             "moduleVariant": "double_socket/creative_toolbooster"

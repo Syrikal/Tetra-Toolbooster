@@ -3,7 +3,7 @@
     "outcomes": [
         {
             "material": {
-                "item": "toolbooster:toolbooster"
+                "items": ["toolbooster:toolbooster"]
             },
             "experienceCost": 10,
             "moduleKey": "sword/socket",
@@ -11,7 +11,7 @@
         },
         {
             "material": {
-                "item": "toolbooster:legend_toolbooster"
+                "items": ["toolbooster:legend_toolbooster"]
             },
             "experienceCost": 30,
             "moduleKey": "sword/socket",
@@ -19,7 +19,7 @@
         },
         {
             "material": {
-                "item": "toolbooster:creative_toolbooster"
+                "items": ["toolbooster:creative_toolbooster"]
             },
             "moduleKey": "sword/socket",
             "moduleVariant": "sword_socket/creative_toolbooster"
